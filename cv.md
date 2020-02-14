@@ -1,4 +1,4 @@
-1. Dzmitry Ryltsou
+1. **Dzmitry Ryltsou**
 1. +375296579206, Minsk, Prytyckogo str 86-9
 1. When i learn in school i liked to learn math. At the age of 15 i win school math competition, 
 participated in the city math competition. Later i was learned to be an engineer (cars engines).  But now I want to be a web developer.
