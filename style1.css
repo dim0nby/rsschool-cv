@@ -1,6 +1,9 @@
 html {
     font-size: 10px;
 }
+p, a, h1, h2, ul {
+    margin: 0;
+}
 
 body {
     margin: 0;
@@ -13,9 +16,12 @@ body {
 }
 
 .header {
-    display: flex;
-        align-items: left;
+    display: flexbox;
+    justify-content: space-around;
     background-color: lightslategray;
-    padding: 15px 0;
-    
+      
     }
+.header_text {
+    margin-bottom: 15px;
+    align-self: left;
+}
