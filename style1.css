@@ -30,3 +30,7 @@ body {
     margin-bottom: 30px;
     font-size: 2rem;
 }
+.resume {
+    padding: 30px;
+    background-color: lightgray;
+}
