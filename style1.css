@@ -16,12 +16,12 @@ body {
 }
 
 .header {
-    display: flexbox;
+    display: flex;
     justify-content: space-around;
     background-color: lightslategray;
       
     }
 .header_text {
-    margin-bottom: 15px;
-    align-self: left;
-}
+    padding: 15px 0;
+    margin-bottom: 30px;
+    }
