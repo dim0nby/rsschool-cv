@@ -14,7 +14,8 @@ body {
 
 .header {
     display: flex;
-    justify-content: space-around;
+        align-items: left;
     background-color: lightslategray;
     padding: 15px 0;
+    
     }
