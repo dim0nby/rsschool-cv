@@ -23,5 +23,10 @@ body {
     }
 .header_text {
     padding: 15px 0;
-    margin-bottom: 30px;
+    
     }
+
+.header_cont {
+    margin-bottom: 30px;
+    font-size: 2rem;
+}
